@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\IT\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\IT\source\repos\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\IT\source\repos\Matrices\Matrices\bin\Debug\Matrices.xml
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.Resources.resources
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.xml
+C:\Users\IT\source\repos\Matrices\Matrices\obj\Debug\Matrices.pdb

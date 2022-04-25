@@ -1,0 +1,10 @@
+C:\Users\IT\source\repos\for\for\bin\Debug\for.exe.config
+C:\Users\IT\source\repos\for\for\bin\Debug\for.exe
+C:\Users\IT\source\repos\for\for\bin\Debug\for.pdb
+C:\Users\IT\source\repos\for\for\bin\Debug\for.xml
+C:\Users\IT\source\repos\for\for\obj\Debug\for.Resources.resources
+C:\Users\IT\source\repos\for\for\obj\Debug\for.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\for\for\obj\Debug\for.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\for\for\obj\Debug\for.exe
+C:\Users\IT\source\repos\for\for\obj\Debug\for.xml
+C:\Users\IT\source\repos\for\for\obj\Debug\for.pdb

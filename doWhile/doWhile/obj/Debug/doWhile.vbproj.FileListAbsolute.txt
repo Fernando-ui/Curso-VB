@@ -1,0 +1,10 @@
+C:\Users\IT\source\repos\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\IT\source\repos\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Users\IT\source\repos\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Users\IT\source\repos\doWhile\doWhile\bin\Debug\doWhile.xml
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.Resources.resources
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.xml
+C:\Users\IT\source\repos\doWhile\doWhile\obj\Debug\doWhile.pdb

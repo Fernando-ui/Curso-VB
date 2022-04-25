@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\bin\Debug\ProblemaCondicional.exe.config
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\bin\Debug\ProblemaCondicional.exe
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\bin\Debug\ProblemaCondicional.pdb
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\bin\Debug\ProblemaCondicional.xml
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.Resources.resources
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.exe
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.xml
+C:\Users\IT\source\repos\ProblemaCondicional\ProblemaCondicional\obj\Debug\ProblemaCondicional.pdb

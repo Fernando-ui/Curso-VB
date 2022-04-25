@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\bin\Debug\ArrayVectores.exe.config
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\bin\Debug\ArrayVectores.exe
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\bin\Debug\ArrayVectores.pdb
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\bin\Debug\ArrayVectores.xml
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.Resources.resources
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.exe
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.xml
+C:\Users\IT\source\repos\ArrayVectores\ArrayVectores\obj\Debug\ArrayVectores.pdb
