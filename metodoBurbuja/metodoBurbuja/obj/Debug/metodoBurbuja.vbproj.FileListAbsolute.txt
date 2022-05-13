@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.exe.config
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.exe
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.pdb
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.xml
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.Resources.resources
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.exe
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.xml
+C:\Users\IT\source\repos\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.pdb

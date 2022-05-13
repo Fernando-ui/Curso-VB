@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\bin\Debug\PruebaMetodos.exe.config
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\bin\Debug\PruebaMetodos.exe
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\bin\Debug\PruebaMetodos.pdb
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\bin\Debug\PruebaMetodos.xml
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.Resources.resources
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.exe
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.xml
+C:\Users\IT\source\repos\PruebaMetodos\PruebaMetodos\obj\Debug\PruebaMetodos.pdb
