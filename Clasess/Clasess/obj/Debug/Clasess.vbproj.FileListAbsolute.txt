@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\Clasess\Clasess\bin\Debug\Clasess.exe.config
+C:\Users\IT\source\repos\Clasess\Clasess\bin\Debug\Clasess.exe
+C:\Users\IT\source\repos\Clasess\Clasess\bin\Debug\Clasess.pdb
+C:\Users\IT\source\repos\Clasess\Clasess\bin\Debug\Clasess.xml
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.Resources.resources
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.vbproj.GenerateResource.cache
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.exe
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.xml
+C:\Users\IT\source\repos\Clasess\Clasess\obj\Debug\Clasess.pdb
