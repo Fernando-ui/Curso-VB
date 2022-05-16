@@ -1,21 +1,15 @@
 ﻿Module Module1
 
     Sub Main()
-        Dim elAire As AireAcondicionado = New AireAcondicionado()
-        elAire.color = "azul"
-        elAire.modelo = "no se cual modelo"
-        elAire.marca = "La mejor de todas"
-        elAire.voltaje = 233
-        elAire.btu = 3324
-        elAire.temperatura = 0
 
-        Console.WriteLine(elAire.color)
-        Console.WriteLine(elAire.modelo)
-        Console.WriteLine(elAire.marca)
-        Console.WriteLine(elAire.voltaje)
-        Console.WriteLine(elAire.btu)
-        elAire.subirTemperatura()
-        Console.WriteLine(elAire.temperatura)
+        Dim estudianteMaestro As Estudiante = New Estudiante("Fernando", "otro", 4, 4, "String")
+        Console.WriteLine(estudianteMaestro.getNombre())
+
+        Console.WriteLine(estudianteMaestro.getCodigoEstudiante())
+        Dim cuentas(2) As Estudiante
+        For i = 0 To 2 Step 1
+            Dim cuenta As New
+        Next
     End Sub
 
 End Module
