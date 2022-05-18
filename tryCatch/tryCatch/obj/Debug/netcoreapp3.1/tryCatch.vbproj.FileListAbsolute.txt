@@ -1,0 +1,13 @@
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.exe
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.deps.json
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.json
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.dev.json
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\IT\source\repos\tryCatch\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfo.vb
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\IT\source\repos\tryCatch\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.genruntimeconfig.cache
