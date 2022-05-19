@@ -1,0 +1,14 @@
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.exe
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.deps.json
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.runtimeconfig.json
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.runtimeconfig.dev.json
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.dll
+C:\Users\IT\source\repos\Generico\Generico\bin\Debug\netcoreapp3.1\Generico.pdb
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.AssemblyInfo.vb
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.dll
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.pdb
+C:\Users\IT\source\repos\Generico\Generico\obj\Debug\netcoreapp3.1\Generico.genruntimeconfig.cache

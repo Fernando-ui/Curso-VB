@@ -1,0 +1,14 @@
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.exe
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.deps.json
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.runtimeconfig.json
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.runtimeconfig.dev.json
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.dll
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\bin\Debug\netcoreapp3.1\metodosArrray.pdb
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.vbproj.AssemblyReference.cache
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.AssemblyInfo.vb
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.vbproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.dll
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.pdb
+C:\Users\IT\source\repos\metodosArrray\metodosArrray\obj\Debug\netcoreapp3.1\metodosArrray.genruntimeconfig.cache

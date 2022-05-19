@@ -18,6 +18,8 @@ Module Program
             Dim p As New Persona(nom, id, edad)
             p.datos(nom, id, edad)
 
+
+
         Catch ex As Exception
             Console.WriteLine("Tenemos un error")
         End Try
